@@ -1,8 +1,8 @@
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
 ## Mateusz Stacel
 
 📍 Birmingham, UK | ✉️ mateusz.stacel92@gmail.com | ☎️ 07480919129
-
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
 I’m a full stack junior developer and new graduate of an intensive 16 week bootcamp Makers Academy, a highly selective web development bootcamp. I love learning new things and helping others do the same. Loves problem solving and using technology to positively impact society. When I discovered coding, tried few online tutorials and knew I finally found a career path that ticked all the boxes: fast paced environment, challenges, real world problems to solve and continuous learning. And it is so much fun! I'm currently seeking my first role as a junior developer, where I can gain hands-on experience and contribute to the team.  
