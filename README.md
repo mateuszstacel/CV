@@ -1,5 +1,7 @@
 ## Mateusz Stacel
 
+📍 Birmingham, UK | ✉️ mateusz.stacel92@gmail.com | ☎️ 07480919129
+
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 
