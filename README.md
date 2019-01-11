@@ -66,7 +66,7 @@ Faculty of Management Selection and Processing of Information
 *Tig Welder/Fabricator*  
 
 ## Interests
-
+- Learning new technologies
 - World Traveller - my home wall map is full of dotts !
 - Adventurer 
 
