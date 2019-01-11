@@ -29,10 +29,12 @@ I’m a full stack junior developer and new graduate of an intensive 16 week boo
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [Acebook](https://github.com/lucafrancesc/acebook-unicorns) | Facebook clone using Ruby on Rails using various tools to practice developer workflow and working in a group environment| Ruby on Rails, HTML, CSS, RSpec, PostgreSQL |
-| [Thermostat](https://github.com/mateuszstacel/thermostat) | A Makers Academy project. Build a Thermostat| Javascript, JQuery, HTML, CSS |
-|[Bowling](https://github.com/mateuszstacel/bowling-challenge)| A Makers Academy weekend project. Build a bowling score calculator| Javascript, JQuery, HTML, CSS|
-| [Rock Paper Scissors](https://github.com/mateuszstacel/rps-challenge) | Another Makers Academy weekend project. Play a game of Rock Paper Scissors against your computer | Ruby, Sinatra, RSpec, Capybara, HTML, CSS|
+| [Acebook](https://github.com/lucafrancesc/acebook-unicorns) | Facebook clone using Ruby on Rails using various tools to practice developer workflow and working in a group environment. Involvement within this project was primarily focused on the DevOps portion to have a staging and production application (Travis, Heroku) as well as TDD features on the platform. We maintained a Trello board to visibly delegate tasks and operated stands and retros.| Ruby on Rails, HTML, CSS, RSpec, PostgreSQL |
+
+| [MakersBnb](https://github.com/leoncross/makersbnb) | I worked as part of a team to make a clone or AirBnB. This was our first time using MongoDB and our first major Javascript project, but we all enjoyed the experience.| JavaScript, Express, MongoDB, HTML, CSS|
+| [Thermostat](https://github.com/mateuszstacel/thermostat) | Entering the world of Javascript by creating a front-end thermostat web application. The primary goal of this week was to first learn Javascript and continue to consolidate skills such as TDD within its implementation. This was also the first time using jQuery to build interactive functionality into a webpage. | Javascript, JQuery, HTML, CSS |
+|[Bowling](https://github.com/mateuszstacel/bowling-challenge)| A bowling scorecard that allows the user to enter their scores and calculates a running total and bonus points for strikes and spares | Javascript, JQuery, HTML, CSS|
+| [Rock Paper Scissors](https://github.com/mateuszstacel/rps-challenge) | Makers Academy weekend project, solo project to create a web application of the classic game 'Rock, Paper, Scissors' | Ruby, Sinatra, RSpec, Capybara, HTML, CSS|
 
 ## Education
 
